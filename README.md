@@ -8,4 +8,4 @@ It works by simulating generations of neural networks that all play the game of 
 
 ## Usage
 
-This is a console application. Clone this repository locally and compile it with dotnet and then run the program. Alternitavely, you can run the program in a webpage here: [](https://replit.com/@Lumpylump/Snake-Neural-Network).
+This is a console application. Clone this repository locally and compile it with dotnet and then run the program. Alternitavely, you can run the program in a webpage [here](https://replit.com/@Lumpylump/Snake-Neural-Network).
