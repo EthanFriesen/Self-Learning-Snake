@@ -8,5 +8,4 @@ It works by simulating generations of neural networks that all play the game of 
 
 ## Usage
 
-1. Clone this repository locally with `git clone https://github.com/EthanFriesen/Self-Learning-Snake`.
-2. Run
+This is a console application. Clone this repository locally and compile it with dotnet and then run the program. Alternitavely, you can run the program in a webpage here: [](https://replit.com/@Lumpylump/Snake-Neural-Network).
